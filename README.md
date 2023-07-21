@@ -9,4 +9,4 @@
 [**Translating GD to russian here**](https://discord.gg/HyfQN4BJSc)<br/>
 [**My YT**](https://www.youtube.com/channel/UCf7sbGDC2bNIQz3kbFLYFoQ)
 
-My discord: Jaan#2897
+My discord: jaan2897 (old Jaan#2897)
