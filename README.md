@@ -1,12 +1,11 @@
+# Hi!
+I mostly do C++, Python, mods for games and graphics.
+
 ## Stats:
+<p align='center'><img src='https://github-readme-stats.vercel.app/api?username=JaanDev&theme=dracula&show_icons=true'/></p>
+<p align='center'><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=JaanDev&theme=dracula&show_icons=true&langs_count=8&layout=compact'/></p>
 
-[![My stats!](https://github-readme-stats.vercel.app/api?username=JaanDev&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-statss)
-<br/>
-[![Top Langs!](https://github-readme-stats.vercel.app/api/top-langs/?username=JaanDev&theme=tokyonight&show_icons=true&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<br/>
-<br/>
 ## Links:
-[**Translating GD to russian here**](https://discord.gg/HyfQN4BJSc)<br/>
-[**My YT**](https://www.youtube.com/channel/UCf7sbGDC2bNIQz3kbFLYFoQ)
-
-My discord: jaan2897 (old Jaan#2897)
+Translating GD to russian [**here**](https://discord.gg/HyfQN4BJSc)  
+My [**Youtube**](https://www.youtube.com/channel/UCf7sbGDC2bNIQz3kbFLYFoQ)  
+My [**Discord**](https://discordapp.com/users/671779411422347276) (jaan2897)
