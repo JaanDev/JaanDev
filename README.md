@@ -2,8 +2,9 @@
 I mostly do C++, Python, mods for games and graphics.
 
 ## Stats:
-<p align='center'><img src='https://github-readme-stats.vercel.app/api?username=JaanDev&theme=dracula&show_icons=true'/></p>
-<p align='center'><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=JaanDev&theme=dracula&show_icons=true&langs_count=8&layout=compact'/></p>
+<img src='https://github-views.deno.dev/api/badge/JaanDev?style=classic&label=Profile+views'/>
+<img src='https://github-readme-stats.vercel.app/api?username=JaanDev&theme=dracula&show_icons=true'/>
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=JaanDev&theme=dracula&show_icons=true&langs_count=8&layout=compact'/>
 
 ## Links:
 Translating GD to russian [**here**](https://discord.gg/HyfQN4BJSc)  
